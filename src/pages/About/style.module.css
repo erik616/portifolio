@@ -1,0 +1,28 @@
+.content {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+.content p {
+    width: 40rem;
+}
+
+.about img {
+    width: 16rem;
+    height: 16rem;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 680px){
+    .content{
+        justify-content: center;
+    }
+
+    .content p {
+        width: 100%;
+    }
+}

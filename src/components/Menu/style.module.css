@@ -1,0 +1,102 @@
+@import url('../../index.css');
+
+.content {
+    width: 100%;
+    padding: .5rem 4rem;
+    margin-bottom: 2.2rem;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.responsive_menu {
+    display: none;
+}
+
+.responsive_menu:hover {
+    cursor: pointer;
+}
+
+.title h1 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 10px;
+    margin-bottom: 2rem;
+    color: #000;
+}
+
+nav {
+    max-width: 1200px;
+    border: 1px solid var(--color-gray);
+    padding: 0 2rem;
+    border-radius: 8px;
+}
+
+nav ul {
+    position: relative;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2%;
+    margin: 5px 10%;
+}
+
+nav ul::after,
+nav ul::before {
+    content: '';
+    position: absolute;
+    width: 18%;
+    border: 1px solid var(--color-gray);
+    top: 50%;
+    z-index: 1;
+}
+
+
+@media screen and (max-width: 1032px) {
+
+    nav ul::after,
+    nav ul::before {
+        width: 10%;
+    }
+}
+
+@media screen and (max-width: 860px) {
+
+    nav ul::after,
+    nav ul::before {
+        display: none;
+    }
+}
+
+
+nav ul::after {
+    left: -14%;
+}
+
+nav ul::before {
+    right: -14%;
+}
+
+nav ul li {
+    text-transform: lowercase;
+    color: var(--color-gray);
+    padding: .5rem 1.5rem;
+    font-size: 18px;
+}
+
+.focus {
+    font-weight: 800;
+    color: var(--full-gray);
+}
+
+@media screen and (max-width: 720px) {
+
+    nav ul {
+        flex-direction: column;
+    }
+}
