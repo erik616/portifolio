@@ -4,6 +4,7 @@ import { Cards } from "../../components/Cards";
 import { Card } from "../../components/Card";
 import { LINKS } from "../../utils/data";
 import { useParams } from "react-router-dom";
+import { getTop } from "../../utils/functions";
 
 export function GalerySection() {
   const { link } = useParams();
@@ -11,17 +12,14 @@ export function GalerySection() {
   const [section, setSection] = useState([]);
 
   useEffect(() => {
-    // const response = LINKS[3].imgs;
     const response = LINKS.find((item) => item.section === link).imgs;
     const route = LINKS.find((item) => item.section === link).section;
     setSection(route);
     setData(response);
 
-    // let test =
-    console.log(response);
   }, [link]);
-  console.log(data);
 
+  getTop()
   return (
     <Container title={section}>
       {data.map((item) => {

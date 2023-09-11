@@ -7,6 +7,7 @@ import { Container } from "../../components/Container";
 
 import style from "./style.module.css/";
 import { ButtonBack } from "../../components/ButtonBack";
+import { getTop } from "../../utils/functions";
 
 export function Exhibitions() {
   const [data, setData] = useState([]);
@@ -16,44 +17,45 @@ export function Exhibitions() {
     const res = LINKS.find((item) => item.section === "exposições").data;
     setData(res);
   }, []);
-  console.log(data);
 
   const handleShow = (id) => {
-    console.log(id);
     navigate(`/exhibitions/expo/${id}`);
   };
 
+  getTop()
   return (
     <Container title="Exposições">
       <div className={style.expo}>
-        {data.map((item) => {
-          return (
-            <ul key={item.id}>
-              <li>
-                <span>exposição: </span>
-                {item.name}
-              </li>
-              <li>
-                <span>local: </span>
-                {`${item.locale} - ${item.date}`}{" "}
-              </li>
-              <li>
-                <span>função: </span>
-                {item.function}
-              </li>
-              {item.src && (
+        {data
+          .map((item) => {
+            return (
+              <ul key={item.id}>
                 <li>
-                  <img
-                    className={style.expo_banner}
-                    src={item.src}
-                    alt={item.name}
-                    onClick={item.photos ? () => handleShow(item.id) : null}
-                  />
+                  <span>exposição: </span>
+                  {item.name}
                 </li>
-              )}
-            </ul>
-          );
-        }).reverse()}
+                <li>
+                  <span>local: </span>
+                  {`${item.locale} - ${item.date}`}{" "}
+                </li>
+                <li>
+                  <span>função: </span>
+                  {item.function}
+                </li>
+                {item.src && (
+                  <li>
+                    <img
+                      className={style.expo_banner}
+                      src={item.src}
+                      alt={item.name}
+                      onClick={item.photos ? () => handleShow(item.id) : null}
+                    />
+                  </li>
+                )}
+              </ul>
+            );
+          })
+          .reverse()}
       </div>
     </Container>
   );

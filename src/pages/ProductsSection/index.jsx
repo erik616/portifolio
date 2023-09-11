@@ -4,6 +4,7 @@ import { LINKS } from "../../utils/data";
 import { Cards } from "../../components/Cards";
 import { Card } from "../../components/Card";
 import { useParams } from "react-router-dom";
+import { getTop } from "../../utils/functions";
 
 export function ProductsSection() {
   const { link } = useParams();
@@ -17,8 +18,7 @@ export function ProductsSection() {
     setData(response);
   }, [link]);
 
-  console.log(data);
-
+  getTop()
   return (
     <Container title={section}>
       {data.map((item) => {

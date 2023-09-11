@@ -10,7 +10,6 @@ export function Card({ data, big }) {
   };
 
   const rotate = data.rotate;
-  console.log(rotate);
 
   return (
     <>

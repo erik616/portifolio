@@ -3,15 +3,13 @@ import { Container } from "../../components/Container";
 import { LINKS } from "../../utils/data";
 import { useParams } from "react-router-dom";
 import { Card } from "../../components/Card";
+import { getTop } from "../../utils/functions";
 
 export function Product() {
   const { link, id } = useParams();
   const [title, setTitle] = useState("");
   const [data, setData] = useState([]);
 
-  window.scrollTo(0, 0);
-
-  console.log("ID", id);
   useEffect(() => {
     const res = LINKS.find((item) => item.section === "produtos");
 
@@ -23,8 +21,8 @@ export function Product() {
     setTitle(title);
     setData(data.photos);
   }, [link, id]);
-  console.log(link, data);
 
+  getTop()
   return (
     <Container title={`${link} ${title ? `-${title}` : ''}`}>
       {data.map((item) => {

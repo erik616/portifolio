@@ -5,15 +5,13 @@ import { useParams } from "react-router-dom";
 import { Card } from "../../components/Card";
 
 import { ButtonBack } from "../../components/ButtonBack";
+import { getTop } from "../../utils/functions";
 
 export function Colection() {
   const { section, id } = useParams();
   const [title, setTitle] = useState("");
   const [data, setData] = useState([]);
 
-  window.scrollTo(0, 0);
-
-  console.log("ID", id);
   useEffect(() => {
     const res = LINKS.find((item) => item.section === section);
     const response = res.imgs.find((item) => item.id == id);
@@ -21,6 +19,7 @@ export function Colection() {
     setData(response.photos);
   }, [section, id]);
 
+  getTop();
   return (
     <>
       <ButtonBack />

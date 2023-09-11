@@ -136,6 +136,10 @@ nav ul li {
     .responsive_menu span::before {
         right: -4.8rem;
     }
+
+    .content {
+        margin-bottom: 1.1rem;
+    }
 }
 
 @media screen and (max-width: 600px) {
