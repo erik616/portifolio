@@ -22,7 +22,6 @@ export function Home() {
       <img
         className={`${style.item} ${style.active}`}
         src={itens[count]}
-        alt={itens[count]}
       />
     );
   };

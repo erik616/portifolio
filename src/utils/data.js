@@ -15,7 +15,7 @@ export const LINKS = [
             },
             {
                 "id": 2,
-                "title": "sem titulo",
+                "title": "sem título",
                 "year": "",
                 "size": "20x30",
                 "technique": "Xilogravura",
@@ -25,7 +25,7 @@ export const LINKS = [
             },
             {
                 "id": 3,
-                "title": "sem titulo",
+                "title": "sem título",
                 "year": "2022",
                 "size": "20x30",
                 "technique": "Xilogravura",
@@ -35,7 +35,7 @@ export const LINKS = [
             },
             {
                 "id": 4,
-                "title": "sem titulo",
+                "title": "sem título",
                 "year": "2022",
                 "size": "18x22",
                 "technique": "Linogravura",
@@ -61,7 +61,7 @@ export const LINKS = [
                         "title": "Sem Título",
                         "year": "2021",
                         "size": "15x10",
-                        "technique": "Pintura em Tela - Tinta Acrilica",
+                        "technique": "Pintura em Tela - Tinta Acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc_N2PeZkj-n2y6giNspd8MlcwuRU2BMSDdZsXk2pVM92R09r9qV_6Gzmr6mXR0sWlgQB9m0Kur7wqlG_uCbvm7BNqYgs48MtFVaJsG0BeuvX2T28_fwhaV6tC6igKLoj7sD-92s-g5jlq7ONCFMLW92=w609-h879-s-no?authuser=0",
                     },
@@ -70,7 +70,7 @@ export const LINKS = [
                         "title": "Sem Título",
                         "year": "2021",
                         "size": "15x10",
-                        "technique": "Pintura em Tela - Tinta Acrilica",
+                        "technique": "Pintura em Tela - Tinta Acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-GlnHu6XfGV02G7bZi90vaJNsrDcfjLaOBHIbiKB8klPwkS8GquJuAX2mR3cYSpGOJ3pfKr1S2S0ySog-5bgWb6grddRGyOyOgmxOc-SQ_sMRH3kfBCr9Ocg8Rqq4wQh7Wwp3Q-WdPvga3t4mwUIJy=w1085-h879-s-no?authuser=0"
                     },
@@ -87,7 +87,7 @@ export const LINKS = [
                         "title": "arrojadoa dinae",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8nRKQaTxqIxettI867xOHbacywZ19Bu215PpRxQ1W7w-RG4O7qZCkR5UwhwF4p8_hzgAJLoB_jQdbWuWl_kqJyBeK2serGkbDc09fcOW56meIWTUXGN6yf85Pn8t4YInMhOARevhV6LGlVC5h4vOz_=w879-h879-s-no?authuser=0",
                     },
@@ -96,7 +96,7 @@ export const LINKS = [
                         "title": "melanoxylon brauna",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9EPUYzQnNDzkSOtTFL9gtI9gBl0rVJvrsWccmwShgPemosPQgX2UTkeTZyyKJQla5THevpZhI1PKywx8X6_FkG9E8kmYylPgL816wffilc5kqDljC0tH5Tp63beZ1IORVZKD7x0zEdWPdpZ02FVC1j=w879-h879-s-no?authuser=0"
                     },
@@ -105,7 +105,7 @@ export const LINKS = [
                         "title": "lippia florida",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8zzPxmdhyQnR0Zx1VDnR-krU0IAxR_8LbYA77LtUr5isGm21Lvu0ONY8RuHLjmo4z0S6KxwFqyXnuT2a7c8cyRCi5iudI58lZYv0Q-7vSwoJZFQ5fy_NSvZjdRqkIVxx_AzTMAif4N7TVAiwzZ4-MD=w879-h879-s-no?authuser=0"
                     },
@@ -114,7 +114,7 @@ export const LINKS = [
                         "title": "vellozia compacta",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9j-1evTvb6GtdsmjL1WyR76W9e1AH6m_wtHltSumoReJHWkfQgAkNc7Z5EZDim1g5SHL9VTGD8uilRpC0lvyBDvn8c48wZ68c73czBEeDrvL0aVxyohkBtRpOQzJyfcvucMmJBxzp9vj93y93twuGM=w879-h879-s-no?authuser=0"
                     },
@@ -123,7 +123,7 @@ export const LINKS = [
                         "title": "stachytarpheta gesnerioides",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-KXhFWVC7xgkwV_J4q0EkBDc6Y9SnqsMfGStRPJlgggUtJocvVbu2YyPP75w_aU2RpjTAMZBJ6snh4QARwkQRUyhmyQhIswYPP6RzPbmq-OAgeNjzhdg387lU6Txn0dUINPJekkq8ew1rkeFgjGzLp=w879-h879-s-no?authuser=0"
                     },
@@ -132,7 +132,7 @@ export const LINKS = [
                         "title": "epiphyllum haw",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc_L9AXLWR684sul6x-Jc0GOkxz3ldMAfLcNHu7CTmjxou53vzSln3queeox3GA-5KaLvzaPcsb5zEsFJaHeWYF-EHtq61fqp2YTqHUzXYFSZYTxqBJ35SiY7JFLc5ugnCG7UV36FXZ1VMP9d9ZG642Z=w879-h879-s-no?authuser=0"
                     },
@@ -141,7 +141,7 @@ export const LINKS = [
                         "title": "calliandra dysantha",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8T4UCsNWsYF3WJUPhzwWRmuNO3xOWgUN5jwcwXqxGQlNRUL2Tr1gPqwE_rd1N_ALSa3KeVWljNO6vpkS66L0-uS_BJHlzQ6jP0f0B4xvldLxA3dyfe2dd2G-YgzTFU0-4OgRRyXvX8bZFbAuCGy56k=w879-h879-s-no?authuser=0"
                     },
@@ -150,7 +150,7 @@ export const LINKS = [
                         "title": "barbacenia gentianoides",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9Jp68LvP4PK529SYjDxS9H_E6eZvUzWYJ2B2cAUBgb84IAup7ZLzKJPGsQevaFSvoR3TwOW_1G1vVBXxyeevjpdULT8DTefMng3ChU3dt-OlgbbJWKmqAVA6itmRE3pRa9oZ5KV7yYuzt21VbXhuTJ=w879-h879-s-no?authuser=0"
                     },
@@ -159,7 +159,7 @@ export const LINKS = [
                         "title": "stipecoma peltigera",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-rfglmoWa6fb_bD24DJ2uSm_ud1tO_tZgRJhOL3gA25BE9FoCkkrhBIvOyRKgKhb2vf-KQ-SQ5mM6b_RFGEPFCZLXfJq0bv7abQJWgsYHuzcuZwMfVPGqrEP8rL7EQaZNQdiT173U4tPkciL3aO89x=w879-h879-s-no?authuser=0"
                     },
@@ -168,7 +168,7 @@ export const LINKS = [
                         "title": "petrea volubilis",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8_BtTbCV7HSyp44yHuoq-ZFI5CDVuW2xtAPZrc1xZeG89iN4hgSaAtEO_uMevTcw08caJU7fLMQZaYlj5e58QgLmUN9qmg841WUR7RGQwElrnikZn2iGIuqwYJ4Gh8Rq5lKLNM_XNrhwZtjXVKu_OC=w878-h878-s-no?authuser=0"
                     },
@@ -177,7 +177,7 @@ export const LINKS = [
                         "title": "lupinus arenarius",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc_xO6p4SPMqGWwcJapc_3QWqHiwDFn7szbT6W-669GkPaQ4DBBF-ceMFE1jwST4Z6iDJWJGQHK6V5IVKh_fJLyBlYeFe5WDGR7q7jh9zEPeb8_MI8X_98yro1PCHxM2IPFmAFxWtuCSUkcR38qB1wK_=w879-h879-s-no?authuser=0"
                     },
@@ -186,7 +186,7 @@ export const LINKS = [
                         "title": "kielmeyra coriacea",
                         "year": "2022",
                         "size": "15x15",
-                        "technique": "pintura em MDF - tinta acrilica",
+                        "technique": "pintura em MDF - tinta acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc_dtzWO_TWIHqTAKIMSJ-UpSs9P3O7dxDeD-JVCh9fJGzgUia5DefAEnVY8W3FkTbrE_eBeJ8z8usTtD1zYEUGt_D-NNfub0bGHX8hMtQs2772_iQ8kflcPKO8yavvWny-D83PFGnzmjhizhVUzV19m=w879-h879-s-no?authuser=0"
                     },
@@ -203,7 +203,7 @@ export const LINKS = [
                         "title": "Monocromático",
                         "year": "2022",
                         "size": "15x10",
-                        "technique": "Pintura em Tela - Tinta Acrilica",
+                        "technique": "Pintura em Tela - Tinta Acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8TCURH4kF1x8gYZER5g3riC2NJzFeu_TPCI68qea7ySHFRUZkhzExL1fyTkY7aqtD1nBtdDy3RsR9Xhp6tDS8y5HnRs11iY3O8WXO6150ik1PxJWYfOrlR9_GUBTj9qeZIcjxrm1hh2Z5rjg-SNuT6=w589-h879-s-no?authuser=0",
                     },
@@ -212,7 +212,7 @@ export const LINKS = [
                         "title": "Policromático",
                         "year": "2022",
                         "size": "15x10",
-                        "technique": "Pintura em Tela - Tinta Acrilica",
+                        "technique": "Pintura em Tela - Tinta Acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc84ZuWNpcB59CN5P_96Gu_IxH8n3amanpwUvH8B_7HZyysZP-Z6FakT50HCiau--orwyx-8O8Y5JRt4k63ka0IfcS9KDeVw57tRqIBjFXR-hZPjT66HdiN-PWhQuQT9Og5TOqrh-cOu2ABzZauhDyl7=w595-h879-s-no?authuser=0"
                     },
@@ -235,7 +235,7 @@ export const LINKS = [
                     },
                     {
                         "id": 2,
-                        "title": "",
+                        "title": "sem título",
                         "year": "2023",
                         "size": "35x35",
                         "technique": "pintura em tela - encaustica",
@@ -244,7 +244,7 @@ export const LINKS = [
                     },
                     {
                         "id": 3,
-                        "title": "",
+                        "title": "sem título",
                         "year": "2023",
                         "size": "35x35",
                         "technique": "pintura em tela - têmpera vinílica",
@@ -253,7 +253,7 @@ export const LINKS = [
                     },
                     {
                         "id": 4,
-                        "title": "",
+                        "title": "sem título",
                         "year": "2023",
                         "size": "35x35",
                         "technique": "pintura em tela - têmpera vinílica",
@@ -273,7 +273,7 @@ export const LINKS = [
                         "title": "amor & romã",
                         "year": "2022",
                         "size": "20x30",
-                        "technique": "pintura em tela - acrilica",
+                        "technique": "pintura em tela - acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8yxSUPNvjDqw4k8dp6BZIbp7H6KTPIJKks9Gh9etYPSlD0gnUZnbKvHZWsQkNYCse-njzLTGACaZ6MMyrk5nRZIrBDHAOrFb7edmUypG2d8UUxAfIKO6RwHiABl8gB2yUoCd5ZV47-mIFG-eHyto-5=w814-h879-s-no?authuser=0"
                     },
@@ -282,7 +282,7 @@ export const LINKS = [
                         "title": "amor & romã",
                         "year": "2022",
                         "size": "20x30",
-                        "technique": "pintura em tela - acrilica",
+                        "technique": "pintura em tela - acrílica",
                         "rotate": null,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9lRseDDJFaQ13LZXmWruPM9abIZ1G0zr6suJKmW1FhTGzAM5iIW_GNMxEKHZbcaeGkhRGCrdFvgkvm0xPU0v-DxqOZyJbtXAtHkYKs5_ybyo81svf8RKjzHS7wTdpt9Q5P5mnOcSof4ZBetyLtKEwc=w815-h879-s-no?authuser=0"
                     },
@@ -293,37 +293,37 @@ export const LINKS = [
                 "title": "Imersão",
                 "year": "2022",
                 "size": "20x20",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc8yv0IaD_krLnqTkstfepEuLo-SCvqspwL8VNKX6zwXeozqv5q8_V2nLqTqAon1t-0tpkzj7ikgg8mlHqgpoejUEUfR-vmZwczl-bWSOnb4g98kVI_M4s55MKfaaoYzP5HaJKEd59RCdCsDlU4zA12g=w831-h879-s-no?authuser=0"
             },
             {
                 "id": 7,
-                "title": "",
+                "title": "sem título",
                 "year": "2022",
                 "size": "20x20",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9GevHMNlRklWbR10mDV_GyNrP6Lk8xRfFnCOhcP50C2IIKiWKa5urX60gPZBhu2ktlG1o7bF5ZX_qTX6_HRMJ9EwYuxap1fkXwt8_CsndY8q1ZhOdGwV_JsOZRkTzjPcT1AOgof4Ejd8V9hXOnk4zi=w863-h879-s-no?authuser=0"
             },
             {
                 "id": 8,
-                "title": "",
+                "title": "sem título",
                 "year": "2022",
                 "size": "20x30",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc8VHoA1K5HMSLPUDj-uFoGhIVF1yey9pCCEvWrDVG1-79hN4fMoHLqmhFbV0zn8MwoTiRyTAijHzjDVOIyTChzV2Z7QJZ0GZW9sVeHBgpoF0rxPICQgjdGks8i-u-QCCMfCCT7OgOQgihfdxEXwn0Uy=w604-h879-s-no?authuser=0"
             },
             {
                 "id": 9,
-                "title": "",
+                "title": "sem título",
                 "year": "2023",
                 "size": "1.10x1.00",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc_74hi8sSxyPGqZXdj9IZ-B94c_e4lZlcv9VVfRqm-TYFgKYxwQFYiSP6yEU8jPT_LCAvq7Mwmjaa19Gyv8jHaYE7WCcDrqAVL3rbujg-n_30072RiemknJBXX1vmkkwf78bFbw17lBVBSclL3teFYD=w659-h879-s-no?authuser=0"
@@ -333,77 +333,77 @@ export const LINKS = [
                 "title": "Reflexo do meu eu",
                 "year": "2023",
                 "size": "90x90",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc_8xFcpep7DraQAKsEtngxZ3ukg8oYLQOzgz_7J5KfDqNd4nEV6Jxl_xG9nfRRcZn2Jc6KVF9sTsgG3BRK1H7DMc54x1jWrU7jDKSydBwVARO0MrKqAqwMc88KVWo43jDdYhOzNe4OBZ-3c4aumgFu7=w659-h879-s-no?authuser=0"
             },
             {
                 "id": 11,
-                "title": "Estilhação-me",
+                "title": "Estilhaçam-me",
                 "year": "2023",
                 "size": "80x80",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Tm8JCyV00Ujjpb5IKR--gkELfk1JgVsCIvTaA3rSguQBbBrBx44-iprJvGJeTo3f-JvE98LqBReHo-kfM2KMsK54Y1hVkwI2H2B-ER5zQLA3ECzuTL77KmU8N62kqI49OzluCJl6eywu9pm2k0F_R=w659-h879-s-no?authuser=0"
             },
             {
                 "id": 12,
-                "title": "",
+                "title": "sem título",
                 "year": "2020",
                 "size": "40x40",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-olefur31BlbOj_IxXCRIRb8xTIIDB16Z1zRzMpkNkeD8gmqynDfilGqSIVVNeO7xBp7OAK1sB3z94cWq5LUtK0Bx54CmEK3gtkKu6Tx_gz19mEHiVIdG3j0X7qwuKbCEPz73CVX7MaBtpxYJ3MFr4=w879-h879-s-no?authuser=0"
             },
             {
                 "id": 13,
-                "title": "nos dois",
+                "title": "nós dois",
                 "year": "2022",
                 "size": "40x30",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc_UYdLgPqNtoCFxDGnqGPFKyghVf6LvEvPsrAt7Pj54trhduv5SeoQHh0LlHx-lB3S9Kc1nCfKzangFW424-o3joWEtSthQxItGKqo8MY9QPBAEbhA1Zd4AG3QrU4sZ-bNOXaFbU2oW4Jgx4mkaE6ah=w659-h879-s-no?authuser=0"
             },
             {
                 "id": 14,
-                "title": "",
+                "title": "sem título",
                 "year": "2020",
                 "size": "20x20",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9vvY5rbvRJ4cCcJD3LmFgYHMhY9xYshl_YsRkAleMvrNOybwyn4aVDx1IX9Tuv0ujVsDJQbkqSjuxOQOVorhIDpjNxw1IzxdzLGF9ATr6Qb4kK6KPnJIO3rM3MKzx7ZqWpC27YAFeZ1V9n-18n28Wk=w879-h879-s-no?authuser=0"
             },
             {
                 "id": 15,
-                "title": "",
+                "title": "sem título",
                 "year": "2021",
                 "size": "40x40",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-BMK4fNSKn2X4xoEmRrTPejEPLZMHyrdYFDOosX9QUOtZMuGG2OxkFQvjEmZkQn8YHHS4nYMULzFul2_Db7DYnJVvAPZe81XQG_hwKFlzkYQBmHohEUEsaPjeKLD60kgx59JEAlYj2pioKUXESdWyi=w879-h879-s-no?authuser=0"
             },
             {
                 "id": 16,
-                "title": "",
+                "title": "sem título",
                 "year": "2021",
                 "size": "15x15",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-5g87pEuNQkSU-TZ6idFkfia3aandMJLfNFm6ObbaiTLbsW6YGpHfGQe3iD0qZ21fO0ZyRw3NYWyjSbtSRxV7B6YtqDujfjkU-AHI7MGch9s9UNs1hZgEq1RXB9mAyxtYpNNBeFZCtE5DsW3HPEEG6=w850-h879-s-no?authuser=0"
             },
             {
                 "id": 17,
-                "title": "",
+                "title": "sem título",
                 "year": "2020",
                 "size": "20x20",
-                "technique": "pintura em tela - acrilica",
+                "technique": "pintura em tela - acrílica",
                 "rotate": null,
                 "photos": false,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-F12v846FCwrCfze3pixUs71tNrHd1k-P7Bo4R9seg34tsbmGkh4MQMhhntQcD2yYKmUNYSIAGYQpMTBb-bWvREgKAVkb8LDYmEpciyl2BooD8wPk8YVhNL9dERykgoXn9Yoel2JHlbtWTpnzwsySr=w879-h879-s-no?authuser=0"
@@ -423,7 +423,7 @@ export const LINKS = [
                     "id": 1,
                     "title": "flor 1, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc9ctnvO-9ohC0sMakHyVw044u_lvRa6yzPfN2AHG6GaiRaKexzMk0jPonI1lNc10shsME82PSlH4K7n4KGQ8kHF0Is7Er1yQfl9KlMnca4EVDzuCz_ounrA3XtvlbNoWIXXHuBoRTKHu3e6vhvo0Uf8=w879-h879-s-no?authuser=0",
@@ -432,7 +432,7 @@ export const LINKS = [
                     "id": 2,
                     "title": "flor 1, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc-3gpNihKIbml5uBqwzOEV8vunUMGiyzkWJGCyGPdZx85urBFw-DBxcR6HwEtyHbb-7T0JqruE4KtCpL3ZChDWXVN9FQEPUmJkDs0j3IURoRIRv6stPkxAkCQREJvHTmgPoENM4vevzn10yY-AgEY2u=w878-h878-s-no?authuser=0"
@@ -441,7 +441,7 @@ export const LINKS = [
                     "id": 3,
                     "title": "flor 1, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_VBDnuj9e4C_hfrUCdwilpCsBrU9Z2Hha__QyRd2AFiD-M6MmfK3vAlY0KIVj-J_ZAtjKvewJv_WBzXkvd7FHjPY75lY4m8753y8EKk3Dq1bZTgriB34zRQEiItmj0Jpeu4UVPzkd0dyTJx-NS_o-1=w878-h878-s-no?authuser=0"
@@ -450,7 +450,7 @@ export const LINKS = [
                     "id": 4,
                     "title": "flor 2, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc8xzzBMJOD9xWVp0KTy5Y1auvo31pXcGIeisb5T6GLL14eZPtBcTL0YXsOM9U8_gMDYiY1iXcJCX654swNruYDT2DmGDhxbuPy5njHOrtzFtc83dbcpaGg5pAFy_uqpJUe0dO8fI8MaS9dXvp9SRfJR=w878-h878-s-no?authuser=0"
@@ -459,7 +459,7 @@ export const LINKS = [
                     "id": 5,
                     "title": "flor 2, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_j2G3i4QAnXd0NVGG7u9-lWIeOrpIxZ58FmDGNxIlinXDw-fxKOWS8A5Qq6cjaF2rCbmz1zuWmz2HxwAcEx6P57iH9n8ci674hu_ynOg9gnnHFqrJiDrFZ2w_JxBB84V7cfdyCRl3ExjH2iqggbbV3=w878-h878-s-no?authuser=0"
@@ -468,7 +468,7 @@ export const LINKS = [
                     "id": 6,
                     "title": "flor 2, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc93GsstE-TlfH8NqdJswRZZ-cPTrVdwRb2Y-NcXe959eSn2jYUxavOQm41tFw_OAlGu-dt5HY7ZreWhVXOmC7timnASexkYGC3QnT5gM96fS5_ydCOXgcCVT-HoVAXMT7prdOmFODDZbPe-CDN-kem4=w878-h878-s-no?authuser=0"
@@ -477,7 +477,7 @@ export const LINKS = [
                     "id": 7,
                     "title": "flor 3, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc9KqO1P2D15aBfv6ofCVPPzgzz7kFo-YrSbk23xxQnSHbf9BnWtes3S_w8geQEUjwoa9YmoUgm-9P4jk4uhLe3nCZOdCH_wH_pzedSlnYzomYv2MqeWRnHogq-RwwNVENMw4354AQhwFJF99XRa-10y=w878-h878-s-no?authuser=0"
@@ -486,7 +486,7 @@ export const LINKS = [
                     "id": 8,
                     "title": "flor 3, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc8i5ouYVVbFYWrOM80Smz1WZ2xerT5mNPvP-uo0QDxZfch8Zy4tX5Jlp167zt4zMfvG_ATBTwKrcB9OEmhbcBP7GyRrXNJDQW6mwelAWBpn-dMCOL5tvOjWcDivMrco2aaCBvEbt7ioWKjCGXiWzsd6=w878-h878-s-no?authuser=0"
@@ -495,7 +495,7 @@ export const LINKS = [
                     "id": 9,
                     "title": "flor 3, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc98PuVh4v8rQhszZ9i-6T9F6xqDLN1Q_JFUqQkL7JHm7v7A79DaiUD7KmlDgOog9Lqiabq5cnmYUujn0gMUgpTeSs6BfjoO_LUMyC47CWasjWOGGXtk5zuiL0DjoWYgLTHGkqXjVOXjk6AJDCoCGY3t=w878-h878-s-no?authuser=0"
@@ -504,7 +504,7 @@ export const LINKS = [
                     "id": 10,
                     "title": "flor 4, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_CzxlzInvGnIkQxin2Y3XgRwaUDGHHOT12IqI9EULn6PI2WSXTJiawWxP0rnFZLOVtx_xR7S0F0pXkGpctjC8cOzm7JR1O_3N48iiKBmwrAsJhUqAtXm2pafzxMPEAxUH6UMRzV5WVHzj97NfLPb1S=w878-h878-s-no?authuser=0"
@@ -513,7 +513,7 @@ export const LINKS = [
                     "id": 11,
                     "title": "flor 4, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_4Ct_y58dkfVdRhg9OQe7zzBFWF9t_5Z2iPNVQt7kWopuSHPEcMqVc9UzXL8gRb3K5L0a4Csm5Zfj_RGsrSEgxj92eKlvS12-SxMslzopt7bSGTQgNOKS1C1ZlxhBa8JMAie4vUKYVTGGSouj98eD2=w878-h878-s-no?authuser=0"
@@ -522,7 +522,7 @@ export const LINKS = [
                     "id": 12,
                     "title": "flor 4, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc-ay-jRD4d-l_iXb1lNBI0VK3F0V8oZbqc8tMvnkHlZdweeT3fdmu3gjoxhySDam4Yu-1dfwLO9dpan_t8pQRglREhSG0gdKhvxZd9q2Wr0oSQZ6n48Nes8zaTIbBJJvVsuj67hxlpqqYk9MTnRoYs3=w878-h878-s-no?authuser=0"
@@ -531,7 +531,7 @@ export const LINKS = [
                     "id": 10,
                     "title": "flor 5, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc9k8-uIwx4grRADkFPeb0dSfbcTB1VieG8XE6VYVcqDc8IYT4u_HaeA09CQMUmYsaGiY4qrMm2MD_sJth8S_oM-yIAh-sgFjTWFCAM3mQMEwbzpAzt55jJsPmpMgI782zwFgSSLFuWAIBRfsNuGQrKG=w878-h878-s-no?authuser=0"
@@ -540,7 +540,7 @@ export const LINKS = [
                     "id": 11,
                     "title": "flor 5, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc-ZF3mIcqCzC4nNJyHpYUirWLN-J-iUYrZ6c5W5RFnLbn9NWC7Pi1b63cIRHNR1SKVTg563JPdFchNY28NIthoUT8GXe3-B1tTRCFX8KDO1_RSGYesUtAIFtYuprvWVmYqKm5CRdnRQg21rI-X1_POX=w878-h878-s-no?authuser=0"
@@ -549,7 +549,7 @@ export const LINKS = [
                     "id": 12,
                     "title": "flor 5, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_CjkPrcsHtjXB8UCuAiphIPL8dV_2SCbHyITX6mBmc5DIkpdjXOg13zZkbjleCfF2RHy4X--EyjdAnAuSk4WL4rPOG4xGi-Rref2xeUe0tC1FJQDUZWZwwdeU1-j43hwEo-mwpjsBl7-IYq8UdNVgW=w878-h878-s-no?authuser=0"
@@ -558,7 +558,7 @@ export const LINKS = [
                     "id": 13,
                     "title": "flor 6, dia 1",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc-Z6sMQIaZTR9tHHsKp_GyBxGCJ0pW0eh_TlYF_hOuq9wQ-qOCMg9LcriP3TH3potbUq6aT7EnAxvJju0ooskQjRd1A0Y2Jl5oKRBFl7qQKxm6F1MWxoZ6vabVmE3263stRQcObfw2BDY_HzRP-edRo=w878-h878-s-no?authuser=0"
@@ -567,7 +567,7 @@ export const LINKS = [
                     "id": 14,
                     "title": "flor 6, dia 2",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc-AOpwFp2NrEgKCBu07MFDx34sIxgQu5yCpgz85Pu3TVQ2SDYJ8JmvtMrpRKwxZnn20RT6MjlACFwwTL3lvOqxyUWDNgvjYhd6UwtUOvlybY-LQ0M_MN2CbEKs8JdO3O6yta0NJUQEWF1wUtFjz3iYz=w878-h878-s-no?authuser=0"
@@ -576,10 +576,20 @@ export const LINKS = [
                     "id": 15,
                     "title": "flor 6, dia 3",
                     "year": "2022",
-                    "size": "3x4",
+                    "size": "3:4",
                     "technique": "fotografia",
                     "rotate": null,
                     "src": "https://lh3.googleusercontent.com/pw/AIL4fc_ZLDEi7yxSVHoDKADfjQJqpAtWyDwIYOqkCmlPKUOLaea2yU7QEydA1OrksNr2TD53svUqj4bz9tLD6mD-iAW7PZuPmtplMeeLXzvMnPjspzc56t6w_Iuv0aiejTY5P-k1OGP2dE8R3m6E8Xqwdj6f=w878-h878-s-no?authuser=0"
+                },
+                {
+                    "id": 16,
+                    "title": "",
+                    "year": "2022",
+                    "size": "3:4",
+                    "technique": "fotografia",
+                    "rotate": null,
+                    "full": true,
+                    "src": "https://lh3.googleusercontent.com/pw/AIL4fc9xKpGj5wJZmexa8zbPs2PTrNQTwMBpDAIAfUEhwoKhZyT-nxx4Kq-rXGZHBKjkDjqhmbjMwik6xcEZOj5M6lyr-CQ1uqlag3wLKeytrPutt42ZktJPA8o80StVy3o2n48n5NbsJLhBRWDKgNgBpAoV=w963-h490-s-no?authuser=0"
                 },
             ]
         },
@@ -593,7 +603,7 @@ export const LINKS = [
                     "id": 1,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -603,7 +613,7 @@ export const LINKS = [
                     "id": 2,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -613,7 +623,7 @@ export const LINKS = [
                     "id": 3,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -623,7 +633,7 @@ export const LINKS = [
                     "id": 4,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -633,7 +643,7 @@ export const LINKS = [
                     "id": 5,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -643,7 +653,7 @@ export const LINKS = [
                     "id": 6,
                     "title": "elos",
                     "year": "2022",
-                    "size": "1x1",
+                    "size": "1:1",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": true,
@@ -661,7 +671,7 @@ export const LINKS = [
                     "id": 1,
                     "title": "",
                     "year": "2021",
-                    "size": "9x16",
+                    "size": "9:16",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": false,
@@ -671,7 +681,7 @@ export const LINKS = [
                     "id": 2,
                     "title": "",
                     "year": "2021",
-                    "size": "9x16",
+                    "size": "9:16",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": false,
@@ -681,7 +691,7 @@ export const LINKS = [
                     "id": 3,
                     "title": "",
                     "year": "2021",
-                    "size": "9x16",
+                    "size": "9:16",
                     "technique": "fotografia",
                     "rotate": null,
                     "full": false,
@@ -1012,7 +1022,7 @@ export const LINKS = [
                     },
                     {
                         "id": 4,
-                        "title": "Série",
+                        "title": "Série metamorfose",
                         "year": "2023",
                         "size": "A3",
                         "technique": "desenho - nankin sobre papel",
@@ -1090,7 +1100,7 @@ export const LINKS = [
         "imgs": [
             {
                 "id": 1,
-                "title": "Serne",
+                "title": "cerne",
                 "rotate": null,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Ny-Arv0W48YscAp-RYjwFh6bmKiYxb4GHIFhE4RPHFZL5vYWONYiRSXN_zC_0HMmb3rSmPazItdlWUD2PvGvIGMP7x2PmCncymLGZ0jh3FCZS2N_Mu0gq7f5wHsVxPvv6xg6VJ6SrpfAV-j4czCUF=w958-h606-s-no?authuser=0",
                 "photos": [
@@ -1099,7 +1109,7 @@ export const LINKS = [
                         "title": "figueira branca",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Ny-Arv0W48YscAp-RYjwFh6bmKiYxb4GHIFhE4RPHFZL5vYWONYiRSXN_zC_0HMmb3rSmPazItdlWUD2PvGvIGMP7x2PmCncymLGZ0jh3FCZS2N_Mu0gq7f5wHsVxPvv6xg6VJ6SrpfAV-j4czCUF=w958-h606-s-no?authuser=0"
@@ -1109,7 +1119,7 @@ export const LINKS = [
                         "title": "figueira branca",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-XRxLCnen-kwCpV2kBf3YsNry4mDuyplLPkqbbUzjRs1_8d_jh_8NaciF6xFPh0P7-B5barJiUR099SFqWu9UgEiwcw0TJNZMjMUnx0xMXtvASrOhy8bttFvbSbW7XR3ACqhlpZGvhJGXzgzVuLGrJ=w858-h878-s-no?authuser=0"
@@ -1119,7 +1129,7 @@ export const LINKS = [
                         "title": "pau terra",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8av0txXgNMHewDgtMxZX7erIhmgTAg3jhQjyvLKf5vfFxuwiOSTmP31HF6gWzJ2RDbLuOvXFH57Ddd8CGGZu_iwwJb257cSeY-1_XMiS5OtEg7lubRm9LA1EnC3dsptWS0KoxKchyJnWrKp0ida5rx=w958-h740-s-no?authuser=0"
@@ -1129,7 +1139,7 @@ export const LINKS = [
                         "title": "pau terra",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc_DdsysoeMUfMiTfM_oCw8JzOkffM3I7QPwi4XlE2SuKl5ZzypFcuRL6uSd8kdTwUbwRu2AcpK6MqczuxHZSseVg9Nl69i4jKalcULusTjPfB2w94hHealCYvw09N7NmUDW_KXzokliaHQHh83R5-2z=w883-h878-s-no?authuser=0"
@@ -1139,7 +1149,7 @@ export const LINKS = [
                         "title": "flamboyant",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-ScdfMKPyh3mjJc_qedRZT90eil4mtWEat9fI4Q3nMjqc8NqKRNiGNEJfXc8ULR2IDBmfJg4f6GafRIcLyxz9Rp1harVU-hVDvSOTtmNayjLQR00Ov_3f35EodcwwsSJeCiY-0SgNXtkzt0MfVUKMi=w958-h700-s-no?authuser=0"
@@ -1149,7 +1159,7 @@ export const LINKS = [
                         "title": "flamboyant",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-DfEzkJ5u_lTN-zXpN8QvIdCSIFFyydMbkNa4Of2xnKf3scaNV-8D52G4X4GW9sFs_KxxRP9MpI_rowOeYyzy2OPUQQszJHABXy16CwyBgkapGcYzAvlQXbo_gj3CBIiL46fTd6mjKwUAgbQbTSrvO=w956-h878-s-no?authuser=0"
@@ -1159,7 +1169,7 @@ export const LINKS = [
                         "title": "angico vermelho",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8B-JPvtGhdQDayHZDfaPgcxTvO-pVi3z9osC3f2CrPAziIxIwDLlmWqQUf6UaSvUlZwr-XWQLlC8Tect-RRCMFEZvRHun0L7tOFECEL7mVbnIzMwi8Ct7FNs6D5r1buOH3_3bktkJSzRbDzbe1IONt=w958-h593-s-no?authuser=0"
@@ -1169,7 +1179,7 @@ export const LINKS = [
                         "title": "angico vermelho",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8iFCznCimJmiPBSqxz2NpeTm8v-hj7PULPLQ-7xlaZDtz84GwBomgs4slTG0w0zv31E990gMiMOZTQcJIeslHJfLDrlcy668mes0PfZHyjol3-mF0B2OkcQ-e2cGYv_Yby6UQHhyb52GWk4aiXRxCT=w876-h878-s-no?authuser=0"
@@ -1179,7 +1189,7 @@ export const LINKS = [
                         "title": "tamboril",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9rXaS6G-CBfjdNNMJuqBEWw5YHGVblx5EYrfjVVXBkFYGP-0U3n_LXSKOTkdvCGc4Q_DFtc2IQaQrgK7cznPMCajEdKe_IJwcjcmymQ-9c2CvB_y_-Rp1fqJxUjHfgzfOp2lcM4eo56rbP3wKCy5wd=w958-h671-s-no?authuser=0"
@@ -1189,7 +1199,7 @@ export const LINKS = [
                         "title": "tamboril",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8S3g_V-pHJvRRjelIuISEG6URJZ08IFgj07wuIHdUKFT36lVA-zG8W5VPZDCnv25_PuPB3GjaGPTJXsRn3N1UEcZKrtIM2T9fnC208TOPJMCT__H4_dWJLdghwc4g8FfVY1ouK7WhvTM1XOWU6-U05=w860-h878-s-no?authuser=0"
@@ -1199,7 +1209,7 @@ export const LINKS = [
                         "title": "jacaranda do cerrado",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9WK2NE-WR4qn8cdaRI2RS4pSL32N-gvpsITgcifGDs9SQE8zuGlrzTwNGBbXXdlj-dQ51hX-obQ6OF2bllzzVprgBFIPUtDa3NPIO_pPL8ZseDQKcFWLLtWk0xy-Hn62NFzuyk3U2EI56kzqLH8OJA=w958-h773-s-no?authuser=0"
@@ -1210,17 +1220,17 @@ export const LINKS = [
                         "title": "jacaranda do cerrado",
                         "year": "2022",
                         "size": "20x20x6",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9OpwsIPn3iCx_AvZo2W2pa2TMCjKoQZOslWlB_a-go5cKgmDs6Re2S-ju-BWVXJIDUp2VHKpV8nc45X1qefrJ3-1Yqdt9p4oFY4Foa8nv7_xVZHx9m-wuaTI18WwaHos4feEZx24afkCv5fgmwQXBe=w873-h878-s-no?authuser=0"
                     },
                     {
                         "id": 13,
-                        "title": "serie",
+                        "title": "serie cerne",
                         "year": "2022",
                         "size": "",
-                        "technique": "materializade pictorica",
+                        "technique": "materialidade pictórica",
                         "rotate": null,
                         "full": true,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-Ni1QqawHyNbuQE3clXAuMns9l046myjpe1g_OoBjGyElk1d2KUpiivEKcvu4W0uFzeNUT4-jKnnCLvXLW_zBl44EmM1m3aLrLmNxe1Nojy3MqnMa_GY87vYmHzJxuy1LejswpR5Xz9mrhqqKcJEWT=w958-h539-s-no?authuser=0"
@@ -1234,7 +1244,7 @@ export const LINKS = [
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-XcZySiAhA-l7L93po6blUecjJnHQKdJdxowBP5FBftQ1AZ-mxjnPTQrJbfY4rtRRCAbTHu4DXIjFAibl9RDEDyM71mFDVlnhfGaH4Mgu4l3tEoAlM03VXqrp3ON5DbMo6puNn4nLJGFoEOBBt5BMM=w659-h878-s-no?authuser=0", "photos": [
                     {
                         "id": 1,
-                        "title": "ser cranio",
+                        "title": "ser crânio",
                         "year": "2022",
                         "size": "15x7",
                         "technique": "materiais diversos",
@@ -1244,7 +1254,7 @@ export const LINKS = [
                     },
                     {
                         "id": 2,
-                        "title": "ser cranio",
+                        "title": "ser crânio",
                         "year": "2022",
                         "size": "15x7",
                         "technique": "materiais diversos",
@@ -1254,7 +1264,7 @@ export const LINKS = [
                     },
                     {
                         "id": 3,
-                        "title": "ser cranio",
+                        "title": "ser crânio",
                         "year": "2022",
                         "size": "15x7",
                         "technique": "materiais diversos",
@@ -1304,7 +1314,7 @@ export const LINKS = [
                     },
                     {
                         "id": 8,
-                        "title": "mandibula",
+                        "title": "mandíbula",
                         "year": "2022",
                         "size": "12x10x3",
                         "technique": "materiais diversos",
@@ -1314,7 +1324,7 @@ export const LINKS = [
                     },
                     {
                         "id": 9,
-                        "title": "mandibula",
+                        "title": "mandíbula",
                         "year": "2022",
                         "size": "12x10x3",
                         "technique": "materiais diversos",
@@ -1324,7 +1334,7 @@ export const LINKS = [
                     },
                     {
                         "id": 10,
-                        "title": "mandibula",
+                        "title": "mandíbula",
                         "year": "2022",
                         "size": "12x10x3",
                         "technique": "materiais diversos",
@@ -1334,7 +1344,7 @@ export const LINKS = [
                     },
                     {
                         "id": 11,
-                        "title": "mandibula",
+                        "title": "mandíbula",
                         "year": "2022",
                         "size": "12x10x3",
                         "technique": "materiais diversos",
@@ -1452,35 +1462,6 @@ export const LINKS = [
             },
             {
                 "id": 5,
-                "title": "movimento",
-                "rotate": null,
-                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9f3vL0IPP19LBhVAIVx2Y4xK8ETCERzkjXMPtStQnx-fcmh06SktC0gLELGUVyNiuHXZwJDveE8UEiZ3A1dUq55Y2X3L2QIJIjXVU3XzA8kFU0LmOKQ6nOIADLdfBcgKK0AmHjdufa9IM1kR9jmPKS=w878-h878-s-no?authuser=0",
-                "photos": [
-                    {
-                        "id": 1,
-                        "title": "movimento",
-                        "year": "2022",
-                        "size": "20x12x5",
-                        "technique": "materiais diversos",
-                        "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9f3vL0IPP19LBhVAIVx2Y4xK8ETCERzkjXMPtStQnx-fcmh06SktC0gLELGUVyNiuHXZwJDveE8UEiZ3A1dUq55Y2X3L2QIJIjXVU3XzA8kFU0LmOKQ6nOIADLdfBcgKK0AmHjdufa9IM1kR9jmPKS=w878-h878-s-no?authuser=0"
-                    },
-                    {
-                        "id": 2,
-                        "title": "movimento",
-                        "year": "2022",
-                        "size": "20x12x5",
-                        "technique": "materiais diversos",
-                        "rotate": null,
-                        "full": true,
-                        "video": true,
-                        "src": "https://youtube.com/shorts/3K-piQDKYCw?si=PQ5sQWid-WX81tNP"
-                    }
-                ]
-            },
-            {
-                "id": 6,
                 "title": "",
                 "rotate": null,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9VI5M8e5XC_5YrfLcGmpm6uXhxRW3DzUFDwDU6A6lPFXQE-gTK1Y1zPp1NtSydCsUP8hFNbxQ3QStX2pkiK-d-185mUrNMG2dqrKpU63UTwnjSrBXMxSn26mbug2b8zxnFMtWXk1fwcEgqWKLx7sWo=w659-h878-s-no?authuser=0",
@@ -1490,7 +1471,7 @@ export const LINKS = [
                         "title": "",
                         "year": "2022",
                         "size": "8x6x4",
-                        "technique": "ceramica",
+                        "technique": "cerâmica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9VI5M8e5XC_5YrfLcGmpm6uXhxRW3DzUFDwDU6A6lPFXQE-gTK1Y1zPp1NtSydCsUP8hFNbxQ3QStX2pkiK-d-185mUrNMG2dqrKpU63UTwnjSrBXMxSn26mbug2b8zxnFMtWXk1fwcEgqWKLx7sWo=w659-h878-s-no?authuser=0"
@@ -1500,7 +1481,7 @@ export const LINKS = [
                         "title": "",
                         "year": "2022",
                         "size": "8x6x4",
-                        "technique": "ceramica",
+                        "technique": "cerâmica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc94DTgp8gzq-RbXfpwLIKVXiiW0F7Fr7aVbECwjDIOiKOuscuix2zNFYvgjwoR9VQk6APcS73hzskUAxSZS4kshyLLrchYTRs3Uf2U9os2mB39z6jhpnMgPHjC1Hv4JvM7A_BGo7H7MAHnhKm95NSK_=w659-h878-s-no?authuser=0"
@@ -1518,7 +1499,7 @@ export const LINKS = [
                 ]
             },
             {
-                "id": 7,
+                "id": 6,
                 "title": "",
                 "rotate": null,
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9zBnU2ZoQdgfyEl03z7XSfFIj4cS9Bh3IIksfoh1WKfFc7siEFKflHX31wiBVqH_tyoCRGVaG8vAlxqU0UNzIwIgAZahvvu5BvW2jwIQJuK4U-Gp5NXymFeksCZ6Ab5fY5PLZxD96VBaEaKqP5NGeP=w659-h878-s-no?authuser=0",
@@ -1528,7 +1509,7 @@ export const LINKS = [
                         "title": "",
                         "year": "2022",
                         "size": "30x20x8",
-                        "technique": "escultua em bloco de concreto",
+                        "technique": "escultura em bloco de concreto",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-uUiMzhmdthMlWfl8z7j8LWknjjxUS50BY4pAR0bkRcsRciSs4NjOIt2aK9NpN5xLFWY4nuFrvD_wgLcgN-6DczXoNFTQOGM-fy051fED3rI0lcgb5MC9Pf6Fy0rnH7EeKd9AY6FeMsMQ3Ja_3vwIf=w494-h878-s-no?authuser=0"
@@ -1538,7 +1519,7 @@ export const LINKS = [
                         "title": "",
                         "year": "2022",
                         "size": "30x20x8",
-                        "technique": "escultua em bloco de concreto",
+                        "technique": "escultura em bloco de concreto",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc9zBnU2ZoQdgfyEl03z7XSfFIj4cS9Bh3IIksfoh1WKfFc7siEFKflHX31wiBVqH_tyoCRGVaG8vAlxqU0UNzIwIgAZahvvu5BvW2jwIQJuK4U-Gp5NXymFeksCZ6Ab5fY5PLZxD96VBaEaKqP5NGeP=w659-h878-s-no?authuser=0"
@@ -1548,7 +1529,7 @@ export const LINKS = [
                         "title": "",
                         "year": "2022",
                         "size": "30x20x8",
-                        "technique": "escultua em bloco de concreto",
+                        "technique": "escultura em bloco de concreto",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8xJO15joC0FPDE_ogpBHfhmrsB8N-25ihdiuGfJqkl_8ffOS4ueLYkpm2PV6hsK_2GUm2e14Kck63nIYX-hllsA6rrv7DOBRGVA9oqGOP5Yw14Nl2H_M08e06ivm213aQ4jJqep8XnveLiv9kr11gK=w659-h878-s-no?authuser=0"
@@ -1556,7 +1537,65 @@ export const LINKS = [
                 ]
             },
             {
+                "id": 7,
+                "title": "Padrões",
+                "rotate": null,
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc8zWBppqg0oe0NhfgQnBaP-nYRZk8tU0D11cB_IEH2i96tDPyjc-FxOeClG4AJdQXpr8xGPBsu9Po1bir1t8L05tA9MH_YhVhaK3k1S9PxgmqyeF68ZPrhslxfvDLcbXWOF-u-Tosaco8bjACy-uoqr=w494-h879-s-no?authuser=0",
+                "photos": [
+                    {
+                        "id": 1,
+                        "title": "Padrões",
+                        "year": "2022",
+                        "size": "30x20x8",
+                        "technique": "escultura em bloco de concreto",
+                        "rotate": null,
+                        "full": false,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc8zWBppqg0oe0NhfgQnBaP-nYRZk8tU0D11cB_IEH2i96tDPyjc-FxOeClG4AJdQXpr8xGPBsu9Po1bir1t8L05tA9MH_YhVhaK3k1S9PxgmqyeF68ZPrhslxfvDLcbXWOF-u-Tosaco8bjACy-uoqr=w494-h879-s-no?authuser=0",
+                    },
+                    {
+                        "id": 2,
+                        "title": "Padrões",
+                        "year": "2022",
+                        "size": "30x20x8",
+                        "technique": "escultura em bloco de concreto",
+                        "rotate": null,
+                        "full": true,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-j74K-S2vLRKAW9qM0Cd_fDAqNmOVr7mXJkye9legb7BgU0Ok99otksKNlqf9gZgyrQMWZLBM7MtpzwXHY8gBCen26NKD0EkP4S0I1FfCI6LplIYmaQ2TpzgTY1c6NuLSF5bBjsywaio2L5muEUChF=w1563-h879-s-no?authuser=0"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Padrões",
+                        "year": "2022",
+                        "size": "30x20x8",
+                        "technique": "escultura em bloco de concreto",
+                        "rotate": null,
+                        "full": false,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc97itUPo4VCA_TmMsLiK8MkD23DywakO-Tfh3-fxZAy03gmTh3_xlPgxsCdrSAiuLnJdNvR7xCl_od-NCzNAIWyreUnSWXevK3IxbisRYzHoF6QT1Kod7_r5iH-dn8h3RR_4mzxRhV6ntgeLLFmW1PR=w1563-h879-s-no?authuser=0"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Padrões",
+                        "year": "2022",
+                        "size": "30x20x8",
+                        "technique": "escultura em bloco de concreto",
+                        "rotate": null,
+                        "full": false,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_EicJX0eVXXRNOe13cV6kV09PJMM8NF3WX7lX6_af_vceeqxzLYviYGOo-RBY7pD_B4Dm-mlrj9Jq2LEPeIH3ca3w_4CMiI7SX-mqylh9PyshDHTPUv5cvWCHk46TF0xj8z-p8qu9xWiXZWp7ehyvN=w1029-h879-s-no?authuser=0"
+                    },
+                ]
+            },
+            {
                 "id": 8,
+                "title": "movimento",
+                "year": "2022",
+                "size": "20x12x5",
+                "technique": "materiais diversos",
+                "rotate": null,
+                "full": false,
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9f3vL0IPP19LBhVAIVx2Y4xK8ETCERzkjXMPtStQnx-fcmh06SktC0gLELGUVyNiuHXZwJDveE8UEiZ3A1dUq55Y2X3L2QIJIjXVU3XzA8kFU0LmOKQ6nOIADLdfBcgKK0AmHjdufa9IM1kR9jmPKS=w878-h878-s-no?authuser=0"
+            },
+            {
+                "id": 9,
                 "title": "flor",
                 "year": "2022",
                 "size": "20x16",
@@ -1566,7 +1605,7 @@ export const LINKS = [
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9ee-yvwI3NszRv_gMwQMzrl771v8Jbqw48hzd7aPwmvRcLFg_P8q9sxmAIpLQfPHdp3xDcyxKfBxQHv-iBHOtZXKkwki4JCZn85XX5Q9zPM-Mg2A7MT8g7XP7U1cj2KKYCK9DB4ds_4zyYtw62HMnG=w659-h878-s-no?authuser=0"
             },
             {
-                "id": 9,
+                "id": 10,
                 "title": "",
                 "year": "2023",
                 "size": "15x5x8",
@@ -1576,7 +1615,7 @@ export const LINKS = [
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc94Z-QEOywADX5wYX9JgYXjioM8YYBRXDzmPrLg3X-Z0OdwFFdsZKRXJR2Y2X7TdNQKEK8tImmhcy-33Icf7a3JzvpsMD3w1Z3Q8ssU5HYWRUOfEL8R8UeAS6ATc6npTXpwSvEaJVguvAFCj5IQxw5_=w659-h878-s-no?authuser=0"
             },
             {
-                "id": 10,
+                "id": 11,
                 "title": "",
                 "year": "2023",
                 "size": "25x25x20",
@@ -1589,11 +1628,96 @@ export const LINKS = [
     },
     {
         "id": 6,
+        "section": "exposições",
+        "data": [
+            {
+                "id": 1,
+                "name": 'Disciplina "corpo arte e vida"',
+                "locale": "UFU - Universidade Federal de Uberlândia, bloco 1I",
+                "date": "2022",
+                "function": "expositora",
+                "src": "",
+                "photos": false
+            },
+            {
+                "id": 2,
+                "name": 'Disciplina "corpo arte e vida"',
+                "locale": "UFU - Universidade Federal de Uberlândia, bloco 1I",
+                "date": "2022",
+                "function": "expositora",
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc_mnNM3Llgg-G9VGArwqc6srlBDLeUwXcNsDukM0W4zexEuOG2fBF6NmutDGvovjBvgVmtm2RtYWw9mjKelYWuSjF1OXGDNiArJuGEqI1-YhtS_AgYM9TuN0mdSVfxclimAA-KZ4IMPaCwMfHpQpLiP=w550-h880-s-no?authuser=0",
+                "photos": [
+                    {
+                        "id": 1,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_mnNM3Llgg-G9VGArwqc6srlBDLeUwXcNsDukM0W4zexEuOG2fBF6NmutDGvovjBvgVmtm2RtYWw9mjKelYWuSjF1OXGDNiArJuGEqI1-YhtS_AgYM9TuN0mdSVfxclimAA-KZ4IMPaCwMfHpQpLiP=w550-h880-s-no?authuser=0",
+                    },
+                    {
+                        "id": 2,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc8eCe_AoMEG-J1E_3kgDcerExSlD1tqsA4Uvi3kSKO3s5VnblsOPFru1r4BORILPKKIkifdOTTYFBAWdzJrGF_ZEfbPXOnwsUuIi-tW15qEGcwExGUxb5aiUQccaXzOI1nags3c8JHvccTepQv9Whnz=w550-h880-s-no?authuser=0"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": 'Disciplina "Imagens técnicas"',
+                "locale": "UFU - Universidade Federal de Uberlândia",
+                "date": "2022",
+                "function": "expositora",
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9aWYAwUyUqtFnKJP294qr0jSP4kg5UCAvcbjhb_HNa4TQynfhOGyXkEsxHjL_bxDHWAkrJTEozLod-2l5265jrT7ZP5zKe4gh8D41ovlW0-CYwkUxrLOVGhlSmaeJXTFE3QRVCTy-qcav7eWBGfdR5=w963-h724-s-no?authuser=0",
+                "photos": false,
+            },
+            {
+                "id": 4,
+                "name": '"Vem pra UFU"',
+                "locale": "UFU - Universidade Federal de Uberlândia, Galeria Aquário - bloco 1I",
+                "date": "2023",
+                "function": "expositora",
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9CgxxXzbhNpkaU6p0G5nKoac_eQ7U_0h2F19IqBUS35IvdVi8GpUFzHMtmG6h10Ns3mCD4KBo9JdKZfQ32PUiT69ZwxeX9s0MKK6viaUieMcIv0_EZBx3THZvqq0MSRzrfxt8sE4GGfy8d1-UbUDD4=w963-h723-s-no?authuser=0",
+                "photos": false
+            },
+            {
+                "id": 5,
+                "name": 'Metamorfose entre o texto e as imagens, Disciplina "Ateliê de desenho"',
+                "locale": "UFU - Universidade Federal de Uberlândia, Galeria Aquário - bloco 1I",
+                "date": "2023",
+                "function": "curadora e expositora",
+                "src": "https://lh3.googleusercontent.com/pw/AIL4fc-a_u5dhuE4003xjUiF_VMLqoqtnT8qKhSMb4ix9hJnC8YIgPy0Z1j6CbBs5dO6xgOuXJw0pDe1kQU3WdIn0GgmMVm7rWgnSVWuJ7r74DO5TNB9C-Z3uymjhoqaQWbac-sRpy7WaVHVsl1DNxVYHdPe=w495-h880-s-no?authuser=0",
+                "photos": [
+                    {
+                        "id": 1,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_amuijUhdVbQt3epqwBbJ-s4Y98R5k9zv29FHYt-0RfBjZYNTnBhT6_r_XeYyIoyk6gd0OdPSilgS6_I4xpEH97dbysElG0S9AKRg0qxC1BVWiLVJ20oFPQo5hiHeDP7eG2H5SfJ0qWrj_gtf4aU3b=w495-h880-s-no?authuser=0"
+                    },
+                    {
+                        "id": 2,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9S8l5aABo0FEnT__88g4HBUyW-lTRY5VO_kwn6FrVovcafORsn3KyQSvnQd7Q67xVzSf__T35fn4k9dOjVgTM18EbfLgdQBwFXhX8ejtD4zCs8sViNvwIiCVpBXrB9a-fxsBLioLaYa-2JMNaaKrGK=w963-h541-s-no?authuser=0"
+                    },
+                    {
+                        "id": 3,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc8oDR2C08pyzrpvq1FCGKpBOVnZbEHCwSNLghOn5VW4Q5gXCpcGWSX18PM4qWkkskf6OaghpHFo9OU3SqlYBQVd7p2nCE_5RrSK1bUNyox2yvyH9n0MXUZVm6qSz87vXMLN3J4D2wtKu5AWhN5pKHiw=w963-h541-s-no?authuser=0"
+                    },
+                    {
+                        "id": 4,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_f1UAJJqbX7TVpgRJfMAgHgXkCwBRIOefg4NxAPjnVlZ6pV9JVIGxFsGTELemo9zqDNJUBoaQTzH5ThPFsOBT85Y0qAuK6TMZBbP7s8PUmm-Py1MuuIKF2v_Og6TZdm_F159u4kCh_tB-AABEcH7os=w963-h541-s-no?authuser=0"
+                    },
+                    {
+                        "id": 5,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_0i4rfxoSQCoC_uZuWbPTB0cIPk72a5gYGBKQWwXLmVm9uhzBIdpkIuZgxR6-8Vxjk8yf5IrE05ArfU7BhOmygldc-0q_yG4Zub4QNvNLbMBXDHlUaCimsecsNVvA-7z0JlU28fJiN0IYKDRoJ2NkC=w963-h541-s-no?authuser=0"
+                    },
+                    {
+                        "id": 6,
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-le1GpkdjFNt8hfHpBAwQRuzXFVRRfUNriCS2avcbjHxWphDpBQS_1ZNAlMr7KgCiJL3Q6mikHIh7_BgpMTQ4mg0BkpGljblypINxy_JKj4DKs-yLZifP8BvYnA3zdbMSqf00tdgwFlp43U1BEOib_=w963-h541-s-no?authuser=0"
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        "id": 7,
         "section": "produtos",
         "imgs": [
             {
                 "id": 1,
-                "section": "pinturas",
+                "section": "pintura",
                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-uIyLLaB14hHO4b4QlScc-fV-7lSi4bIGpjnBdyOATYa29AnyVRJDO2Vn2ww_zu_C4yxmZ0cKdeg9Bvqh2FTzwvN4Tm96YypKZLO5tddusFHexlE5J2AVUxE08QYCHRi81KiwlOBu2g8gD-FCYtrWU=w591-h879-s-no?authuser=0",
                 "photos": [
                     {
@@ -1604,30 +1728,30 @@ export const LINKS = [
                         "photos": [
                             {
                                 "id": 1,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2020",
                                 "size": "40x40",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-IOGoo2UMEvKSwyruvl2osdRTxcIDR2Wm9dEHoKlbxqpgmAGnKmWI6Nt-dkjd0chtfDXMZVhDeoFaUedM9xf83Z_LEPCI712be3wn8bmK2PIUgLDs1C06g_QXLVV9eLu6DKeuwTmusDX4dBOb9xXux=w703-h878-s-no?authuser=0"
                             },
                             {
                                 "id": 2,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2020",
                                 "size": "40x40",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9IbKSWmgY5BO5h5eAENgHGpH6NGjDE2Fnb2Au_Yi6eQzmB0U31eYeX-yTVXk4Ai3CXKK6KBtVug6X9itWfsGi25AD356loDBIBp0rLNYg5T3CTF73CkBp_Brpyr_1WQEluHcLK4X0A15rlBJ2eUrec=w529-h534-s-no?authuser=0"
                             },
                             {
                                 "id": 3,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2020",
                                 "size": "40x40",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc904nQGK3X0IbkYZj7qry0KeTwDY05aLV1H-_hyrMJ0FBalP9C4gARbcN40yVFI7aXOCEFS_7GkLvXvTIpN9HV35v42T3aYjL2yqiM8mL-5wNLNzlI1p_3bMn9dfsKQCCN1LP6nVHRASqLItwKWAzd1=w552-h547-s-no?authuser=0"
@@ -1642,30 +1766,30 @@ export const LINKS = [
                         "photos": [
                             {
                                 "id": 1,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2023",
                                 "size": "10x15",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-uIyLLaB14hHO4b4QlScc-fV-7lSi4bIGpjnBdyOATYa29AnyVRJDO2Vn2ww_zu_C4yxmZ0cKdeg9Bvqh2FTzwvN4Tm96YypKZLO5tddusFHexlE5J2AVUxE08QYCHRi81KiwlOBu2g8gD-FCYtrWU=w591-h879-s-no?authuser=0"
                             },
                             {
                                 "id": 2,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2023",
                                 "size": "10x15",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc9ntwGAuBBZa7PPiKkkKHS2IkaJ4hldh_W6D8Z4aLGFcEc3KXmHq-KDfMFvdJa_rbiq2lsbs8CMM43xbocloo1TtT4XTHgaoAGcYBXvAyGcFytVC_7DMzqzsYkd_ejhsfOWn_bGqwX88TkOghRDuPwh=w605-h879-s-no?authuser=0"
                             },
                             {
                                 "id": 3,
-                                "title": "",
+                                "title": "sem título",
                                 "year": "2023",
                                 "size": "10x15",
-                                "technique": "pintura sobre tela - tinta acrilica",
+                                "technique": "pintura sobre tela - tinta acrílica",
                                 "rotate": null,
                                 "full": false,
                                 "src": "https://lh3.googleusercontent.com/pw/AIL4fc-Nwl76xWvjoikVyzlN_UkqFI-nVbD72FXtUmh8FFKQTToZu3oJnc6BQwNNMHHO7PVKXxWYZkbc9ZyA7FxnILDvdgP4sCDg2Xb7Nlx2FEVvkPB9ZU4Na7WjmZ7C8mxZj7vhkqHtNbtus7jJyC-c-F8U=w588-h879-s-no?authuser=0"
@@ -1677,7 +1801,7 @@ export const LINKS = [
                         "title": "give yourself time",
                         "year": "2020",
                         "size": "40x15",
-                        "technique": "pintura sobre tela - tinta acrilica",
+                        "technique": "pintura sobre tela - tinta acrílica",
                         "rotate": null,
                         "full": true,
                         "src": "https://i.pinimg.com/originals/ce/fc/4c/cefc4cf409e464690be8aed5822e0c48.jpg"
@@ -1687,27 +1811,27 @@ export const LINKS = [
                         "title": "follow your dreams",
                         "year": "2022",
                         "size": "20x30",
-                        "technique": "pintura sobre tela - tinta acrilica",
+                        "technique": "pintura sobre tela - tinta acrílica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8zJzdB2p0nmGtzpDU6iAw4udpgVpM_mT--jElex-9yZ_gfua263olQt7JPqg23nWEJxmL9aooieBVISPgm9-ZSswFHusQ_pYSKGk_GhYECSL2bl4h6mCYbr8HH6SvV5xkGQZiBhB_GKYYP2Et1ZhM2=w878-h878-s-no?authuser=0"
                     },
                     {
                         "id": 5,
-                        "title": "",
+                        "title": "sem título",
                         "year": "2020",
                         "size": "15x15",
-                        "technique": "pintura sobre tela - tinta acrilica",
+                        "technique": "pintura sobre tela - tinta acrílica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Qkp2bpqn90Jq3e23KuXaxl2X9Pt98Ye_W0q_BTSRhq_-dlINc8t-TPNY-ktmmS35MYZ2S75MEqM4I-W4Rl4NYSnqi8rfifY_MUuO9H8eNZMNq7_1jyEDf8WmryBE_FUDhq89JbTJcBkawIhkrj3bR=w768-h768-s-no?authuser=0"
                     },
                     {
                         "id": 6,
-                        "title": "",
+                        "title": "sem título",
                         "year": "2020",
                         "size": "20x30",
-                        "technique": "pintura sobre tela - tinta acrilica",
+                        "technique": "pintura sobre tela - tinta acrílica",
                         "rotate": null,
                         "full": false,
                         "src": "https://lh3.googleusercontent.com/pw/AIL4fc-0sh4ehZEP0Z2C-IgMzPgDGN71tdU5gcrHr0x6PHb-IL3XB6IT-RqrLao14AxUeaktu6vpZ7zYLSlQRGorvwNzF8uWTfTxgzG_MVTsXuCPWmY5FmWvRcJKNPe9nSuZTRGqweqv6kyflkA1NZXPNIoL=w879-h879-s-no?authuser=0"
@@ -1821,7 +1945,7 @@ export const LINKS = [
                     },
                     {
                         "id": 17,
-                        "title": "tabela de preços",
+                        "title": "tabela de valores",
                         "year": "2023",
                         "size": "",
                         "technique": "pintura e gravura",

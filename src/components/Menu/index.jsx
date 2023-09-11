@@ -1,13 +1,19 @@
 import { Link, useLocation } from "react-router-dom";
 
 import style from "./style.module.css";
+import { useState } from "react";
 
 export function Menu() {
+  const [active, setActive] = useState(false);
   const { pathname } = useLocation();
 
   let name = pathname.replace("/", "");
 
   if (name === "") name = "home";
+
+  const handleActive = () => {
+    setActive(!active);
+  };
 
   return (
     <section className={style.content}>
@@ -16,7 +22,10 @@ export function Menu() {
           <h1>Adrianne Jhulya</h1>
         </div>
         <nav>
-          <ul>
+          <div className={style.responsive_menu} onClick={handleActive}>
+            <span>Menu</span>
+          </div>
+          <ul className={active ? style.active : null}>
             <li>
               <Link to="/" className={name === "home" ? style.focus : null}>
                 Home
@@ -33,7 +42,7 @@ export function Menu() {
             <li>
               <Link
                 to="/exhibitions"
-                className={name === "exhibitions" ? style.focus : null}
+                className={pathname.includes("exhibitions") ? style.focus : null}
               >
                 Exposições
               </Link>

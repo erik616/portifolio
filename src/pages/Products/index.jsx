@@ -7,9 +7,10 @@ export function Products() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    const response = LINKS[5].imgs;
+    const response = LINKS.find(item => item.section === "produtos").imgs;
     setData(response);
   }, []);
+  console.log(data);
 
   return (
     <Container title="Produtos">

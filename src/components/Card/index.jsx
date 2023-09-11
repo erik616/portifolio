@@ -23,7 +23,7 @@ export function Card({ data, big }) {
         onClick={handleModal}
       >
         {data.video ? (
-          <Player src={data.src} />
+          <Player src="https://pin.it/3wdnDJP" />
         ) : (
           <img src={data.src} alt={data.title} />
         )}
@@ -37,33 +37,33 @@ function Modal({ active, setActive, item }) {
   if (!active) return;
 
   return (
-    <div className={style.content_modal}>
-      <div className={style.content}></div>
-      <div
-        className={`${style.modal}  ${item.rotate ? style.horizontal : null} `}
-      >
-        <span className={style.icon} onClick={setActive}>
-          x
-        </span>
-        <img src={item.src} alt={item.title} />
-        <p>
-          Adrianne Jhulya da Silva Mendes <br />
-          {item.title && (
-            <>
-              {item.title}
-              <br />
-            </>
-          )}
-          {item.technique} <br />
-          {item.size && (
-            <>
-              {item.size}
-              <br />
-            </>
-          )}
-          {item.year} <br />
-        </p>
-        <br />
+    <div className={style.content_modal} onClick={setActive}>
+      <div className={style.content}>
+        <div
+          className={`${style.modal}  ${
+            item.rotate ? style.horizontal : null
+          } `}
+        >
+          <img src={item.src} alt={item.title} />
+          <p>
+            Adrianne Jhulya da Silva Mendes <br />
+            {item.title && (
+              <>
+                {item.title}
+                <br />
+              </>
+            )}
+            {item.technique} <br />
+            {item.size && (
+              <>
+                {item.size}
+                <br />
+              </>
+            )}
+            {item.year} <br />
+          </p>
+          <br />
+        </div>
       </div>
     </div>
   );

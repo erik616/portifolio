@@ -1,0 +1,36 @@
+.expo {
+    width: 100%;
+    border-left: 1px solid var(--full-gray);
+    padding: .5rem 1rem;
+}
+
+.expo ul {
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+.expo ul li:nth-child(n + 2) {
+    margin-left: 2rem;
+}
+
+.expo ul li:nth-child(4) {
+    margin: .5rem 0 2rem;
+}
+
+.expo ul li span {
+    color: var(--full-gray);
+}
+
+.expo_banner {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.expo_img img{
+    width: 100%;
+    min-height: 20rem;
+    max-height: 50rem;
+    margin-bottom: 2rem;
+    object-fit: cover;
+}

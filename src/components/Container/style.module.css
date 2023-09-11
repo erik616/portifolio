@@ -10,8 +10,7 @@
 }
 
 .galary h1 {
-    margin-bottom: 2rem;
-
+    margin-bottom: 1.4rem;
     color: var(--full-gray);
     font-size: 1.8rem;
     text-transform: capitalize;

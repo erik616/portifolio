@@ -11,10 +11,13 @@ export function ProductsSection() {
   const [section, setSection] = useState([]);
 
   useEffect(() => {
-    const response = LINKS[5].imgs.find((item) => item.section === link).photos;
+    const res = LINKS.find(item => item.section === "produtos").imgs;
+    const response = res.find((item) => item.section === link).photos;
     setSection(link);
     setData(response);
   }, [link]);
+
+  console.log(data);
 
   return (
     <Container title={section}>
@@ -24,7 +27,7 @@ export function ProductsSection() {
             <Cards
               src={item.src}
               title=""
-              to={`/colection/${section}/${item.id}`}
+              to={`/products/${section}/${item.id}`}
               key={item.id}
             />
           );

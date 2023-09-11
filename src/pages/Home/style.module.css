@@ -4,8 +4,8 @@
   position: relative;
   /* background-size: cover; */
   background-position: center;
+  background-color: var(--color-gray);
   overflow: hidden;
-  margin-top: -2rem;
 }
 
 .item {
@@ -17,15 +17,5 @@
 }
 
 .active {
-  animation: opaco 3s infinite;
-}
-
-@keyframes opaco {
-  from {
-    opacity: 0.6;
-  }
-
-  to {
-    opacity: 1;
-  }
+  opacity: 1;
 }
