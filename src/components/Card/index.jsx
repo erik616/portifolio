@@ -25,7 +25,7 @@ export function Card({ data, big }) {
         {data.video ? (
           <Player src="https://pin.it/3wdnDJP" />
         ) : (
-          <img src={data.src} alt={data.title} />
+          <img src={data.src} />
         )}
       </div>
       <Modal active={openModal} setActive={handleModal} item={data} />
@@ -44,7 +44,7 @@ function Modal({ active, setActive, item }) {
             item.rotate ? style.horizontal : null
           } `}
         >
-          <img src={item.src} alt={item.title} />
+          <img src={item.src} />
           <p>
             Adrianne Jhulya da Silva Mendes <br />
             {item.title && (

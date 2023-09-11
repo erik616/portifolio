@@ -14,7 +14,7 @@ export function Cards({ src, title, to }) {
         <div className={style.card0}></div>
         <div className={style.card1}></div>
         <div className={style.card}>
-          <img src={src} alt={title} />
+          <img src={src} />
         </div>
         <h2>{title}</h2>
       </div>
