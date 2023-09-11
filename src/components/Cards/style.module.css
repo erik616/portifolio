@@ -18,11 +18,33 @@
     width: 12rem;
     border: 1px solid #bbbb;
     border-radius: 4px;
-    position: relative;
     transition: 1s ease;
     z-index: 2;
     position: absolute;
     overflow: hidden;
+}
+
+.card {
+    position: relative;
+}
+
+.card::after {
+    content: '+';
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    top: 4px;
+    left: 4px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .2rem;
+
+    border-radius: 4px;
+    background-color: var(--gray);
+    color: var(--full-gray);
+    font-weight: bold;
 }
 
 .card img {

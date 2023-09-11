@@ -1,6 +1,7 @@
 :root {
   --color-gray: #949494;
   --full-gray: #5f5f5f;
+  --gray: rgba(95, 95, 95, 0.342);
 }
 
 * {

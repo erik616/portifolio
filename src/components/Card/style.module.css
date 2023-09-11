@@ -2,10 +2,30 @@
 
 .card_content {
     border: 1px solid #bbbb;
+    position: relative;
     border-radius: 4px;
     z-index: 2;
     overflow: hidden;
     margin: .4rem;
+}
+
+.card_content::after {
+    content: '!';
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    top: 4px;
+    left: 4px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .2rem;
+
+    border-radius: 4px;
+    background-color: var(--gray);
+    color: var(--full-gray);
+    font-weight: bold;
 }
 
 .card {
