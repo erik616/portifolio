@@ -118,6 +118,10 @@
     height: 100%;
 }
 
+.left.card_content::after {
+    transform: rotate(90deg);
+}
+
 .modal p {
     padding: 8px 12px;
     border: 1px solid var(--color-gray);
