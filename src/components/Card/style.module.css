@@ -66,6 +66,10 @@
     transform: rotate(90deg);
 }
 
+/* 
+    STYLE MODAL
+*/
+
 .content_modal {
     position: fixed;
     top: 0;
