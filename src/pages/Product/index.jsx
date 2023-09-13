@@ -4,6 +4,7 @@ import { LINKS } from "../../utils/data";
 import { useParams } from "react-router-dom";
 import { Card } from "../../components/Card";
 import { getTop } from "../../utils/functions";
+import { ButtonBack } from "../../components/ButtonBack";
 
 export function Product() {
   const { link, id } = useParams();
@@ -24,10 +25,13 @@ export function Product() {
 
   getTop()
   return (
+    <>
+    <ButtonBack />
     <Container title={`${link} ${title ? `-${title}` : ''}`}>
       {data.map((item) => {
         return <Card data={item} key={item.id} />;
       })}
     </Container>
+    </>
   );
 }

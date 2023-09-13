@@ -1,8 +1,15 @@
 .button_back{
     border: none;
-    margin-left: 1.8rem;
+    margin-left: 3.2rem;
+    margin-top: -1.8rem;
 }
 
 .button_back img {
     height: 2rem;
+}
+
+@media screen and (max-width: 720px) {
+    .button_back{
+        margin-top: 0;
+    }
 }

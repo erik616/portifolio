@@ -43,7 +43,7 @@ function Modal({ active, setActive, item }) {
             item.rotate ? style.horizontal : null
           } `}
         >
-          <img src={item.src} />
+          <img className={style.img} src={item.src} />
           <p>
             Adrianne Jhulya da Silva Mendes <br />
             {item.title && (

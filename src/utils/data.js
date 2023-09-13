@@ -1846,52 +1846,152 @@ export const LINKS = [
                     {
                         "id": 7,
                         "title": "",
-                        "year": "2023",
-                        "size": "40x40",
-                        "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-9KOohUdgJUz1ka4zuwtDSk8Wjbu1bdo4PqchZtzM9RcPJsUtW3sJVO3pDr0-uXC-YjNlkNTUJtH1_jJgfhuoVMmAiLmcXdBl4CExBQ9h5OwWAnBWcfrRdSym72XZsVxcYt7e-AWGvPRSLc2tzCGPd=w494-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-9KOohUdgJUz1ka4zuwtDSk8Wjbu1bdo4PqchZtzM9RcPJsUtW3sJVO3pDr0-uXC-YjNlkNTUJtH1_jJgfhuoVMmAiLmcXdBl4CExBQ9h5OwWAnBWcfrRdSym72XZsVxcYt7e-AWGvPRSLc2tzCGPd=w494-h878-s-no?authuser=0",
+                        "photos": [
+                            {
+                                "id": 1,
+                                "title": "",
+                                "year": "2023",
+                                "size": "40x40",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc-9KOohUdgJUz1ka4zuwtDSk8Wjbu1bdo4PqchZtzM9RcPJsUtW3sJVO3pDr0-uXC-YjNlkNTUJtH1_jJgfhuoVMmAiLmcXdBl4CExBQ9h5OwWAnBWcfrRdSym72XZsVxcYt7e-AWGvPRSLc2tzCGPd=w494-h878-s-no?authuser=0"
+                            },
+                            {
+                                "id": 2,
+                                "title": "",
+                                "year": "2023",
+                                "size": "40x40",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc_u4-bS5BjdTznzoJHWwPN46V4F1D2etRSwn78qiC0XMP-rwIx55MO7UuHhuI6WjyoN5WyGPjRSI_dk2fNf4saX9YpFUTic4d39mdEQ07q5tPYorWfsYOuW-r2UJaeypzbvwClG-QDcpQ1KZEn4T_NA=w494-h878-s-no?authuser=0"
+                            },
+                        ]
                     },
                     {
                         "id": 8,
                         "title": "",
-                        "year": "2023",
-                        "size": "40x40",
-                        "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_u4-bS5BjdTznzoJHWwPN46V4F1D2etRSwn78qiC0XMP-rwIx55MO7UuHhuI6WjyoN5WyGPjRSI_dk2fNf4saX9YpFUTic4d39mdEQ07q5tPYorWfsYOuW-r2UJaeypzbvwClG-QDcpQ1KZEn4T_NA=w494-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9YXz9glaPKGxDkIBIhgw7S9DWfSwu_mXp0gJHAorxziNFvAmDBrWe85Pd_ejE7lekMcn-TaLM5PRePcrjBrlUuJemb525d1USXtswlNmRQ71bE2CiRXk7GojKet9IbBV22_boJ9owZcVK6UWiwdEgc=w879-h878-s-no?authuser=0",
+                        "photos": [
+                            {
+                                "id": 1,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc-QUktX7PWCkkkUeWOkAXZZIPjoOkH8U5NC8lF3JgrrDZjHMRxFyemMxd5guc4zfAN85FcUer8w9jfESykMoCNlWxwFyCi6p3tNOpKmvtriF_TKTJueqixcIgyE9EJBB3ULJ9ixU2OYxrEmwb0uacLQ=w878-h878-s-no?authuser=0"
+                            },
+                            {
+                                "id": 2,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9YXz9glaPKGxDkIBIhgw7S9DWfSwu_mXp0gJHAorxziNFvAmDBrWe85Pd_ejE7lekMcn-TaLM5PRePcrjBrlUuJemb525d1USXtswlNmRQ71bE2CiRXk7GojKet9IbBV22_boJ9owZcVK6UWiwdEgc=w879-h878-s-no?authuser=0"
+                            },
+                        ]
                     },
                     {
                         "id": 9,
                         "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_NvY0R5rr1hvlHpgcZsCauHNUrzCm1ScU7fF4-jt4qZPkz2EKSmsPbhthc_93w_vXgKRWKkp0FRRKs7yd9fauFWYBxP_5V6raikuhhBii967rLsToOI81fc1Gtd3Ru1FljbQA5Mv2NNG0kYEAspNyg=w878-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc89dnAx2aDTP6pWwz_w6RWNho8jwHK7KAnAVqy5bTkEBqZ3wYFneB78vYXEVXBCzmJrj1pOpBtcm3cUG0rE9n0GRWaaQoXvSGSMcQSn8SVC3f41C6FV9KQ_GHjv2xG7kav9lMmnTkxS0DDpFA0dpzV8=w879-h879-s-no?authuser=0",
+                        "photos": [
+                            {
+                                "id": 1,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc89dnAx2aDTP6pWwz_w6RWNho8jwHK7KAnAVqy5bTkEBqZ3wYFneB78vYXEVXBCzmJrj1pOpBtcm3cUG0rE9n0GRWaaQoXvSGSMcQSn8SVC3f41C6FV9KQ_GHjv2xG7kav9lMmnTkxS0DDpFA0dpzV8=w879-h879-s-no?authuser=0"
+                            },
+                            {
+                                "id": 2,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc_DY3QadQz86-rzzHZKoNj4T9x_cGBfwIMykOvTJzsIpWTTeHR4oGTLlE1JsMnqMk-_jRgeCAkYp4lhsVKDyw5jSkaNrQqNxxTh3s_CepkieKui0yMDgmpIGM3WKNaKQQ7aQwhFhlV_SvPT6UBIpYiL=w879-h879-s-no?authuser=0"
+                            },
+                        ]
                     },
                     {
                         "id": 10,
                         "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Clat2mtH4WqEIc6ta90Xdo6wy59sWHlWj8JmmxIg4LKL5y9pchLRNPVgzJqRjNsV7ouWGKRr_YXeNYop1CV-IJfb-y9XVL_d0Zaae8iPLTqCJZbT_pXj_n3gRDO6HUVbhapKssEgRw3PO3SO6_MFv=w856-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-T34Uf-e7--0FXHH3ewmT09nVy51WpRKk_fdqmnI5SIrvoaxBuCVGf8QVI0hy9vgu_S1GvPUHAzGr3Li-vu3koArjNMmOw0nxfH7glpLhtKfkwUOdgKg5d9vM3i43Dcwln-_O84XLMZ9-1jYlfftwZ=w879-h879-s-no?authuser=0",
+                        "photos": [
+                            {
+                                "id": 1,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc-T34Uf-e7--0FXHH3ewmT09nVy51WpRKk_fdqmnI5SIrvoaxBuCVGf8QVI0hy9vgu_S1GvPUHAzGr3Li-vu3koArjNMmOw0nxfH7glpLhtKfkwUOdgKg5d9vM3i43Dcwln-_O84XLMZ9-1jYlfftwZ=w879-h879-s-no?authuser=0"
+                            },
+                            {
+                                "id": 2,
+                                "title": "",
+                                "year": "2023",
+                                "size": "20x30",
+                                "technique": "pintura sobre tecido - tinta de tecido",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9Ykx9AA1e_3KvzdidGB1HHegx6xBLlhqQ48yd0aQliV7A2r4azUZmavOYFVg-hQeikckQ-Oxybz9lS6eCNlwterrIe-ypDuumw1vs5W92K65eEnTOhO1G7cujw01z3KWdNzc6EnoayvaIO5S6zMWvM=w879-h879-s-no?authuser=0"
+                            },
+                        ]
                     },
                     {
                         "id": 11,
                         "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-QUktX7PWCkkkUeWOkAXZZIPjoOkH8U5NC8lF3JgrrDZjHMRxFyemMxd5guc4zfAN85FcUer8w9jfESykMoCNlWxwFyCi6p3tNOpKmvtriF_TKTJueqixcIgyE9EJBB3ULJ9ixU2OYxrEmwb0uacLQ=w878-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9rI3hQiwKehaBE7_-snp3lKNPCD5DPyWBxfPp_UliMQBJoUa0jBVSO421OnSN3PpsgrYn4I6M2I9AbMeR7u3IhEvCzbX-O0rzmgUPDyQWCxQj15SsHxBERBa1_QSSbsgOrgA1uOKFlvLmi0HS_fGwi=w958-h719-s-no?authuser=0",
+                        "photos": [
+                            {
+                                "id": 1,
+                                "title": "",
+                                "year": "2023",
+                                "size": "40x40",
+                                "technique": "monotipia",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc-fERXiUobSzCECEuxgk6H3LNnjZmMtZafaoDSAGrFlYH9z7bJQUeRybYcKY2ytWTvOmLOQt2JlBlnvmU7nRKPlQ4Y6ts64QxREJ039SySPXyJJw0aCdV2vmPT20fQyMb1uV79Gn9rYmv0sAlXTFUSP=w659-h878-s-no?authuser=0"
+                            },
+                            {
+                                "id": 2,
+                                "title": "",
+                                "year": "2023",
+                                "size": "40x40",
+                                "technique": "monotipia",
+                                "rotate": null,
+                                "full": false,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc9rI3hQiwKehaBE7_-snp3lKNPCD5DPyWBxfPp_UliMQBJoUa0jBVSO421OnSN3PpsgrYn4I6M2I9AbMeR7u3IhEvCzbX-O0rzmgUPDyQWCxQj15SsHxBERBa1_QSSbsgOrgA1uOKFlvLmi0HS_fGwi=w958-h719-s-no?authuser=0"
+                            },
+                            {
+                                "id": 3,
+                                "title": "",
+                                "year": "2023",
+                                "size": "40x40",
+                                "technique": "monotipia",
+                                "rotate": null,
+                                "full": true,
+                                "src": "https://lh3.googleusercontent.com/pw/AIL4fc94txGrYfgQclUGRlzDxiWpUtqhffxRr6CDPagtKLvaFuJlPXSM55OswHE8z9c7mesmowUH6W5uqC8RWB3DjoOyLJz--dK530p05J40lD1DYZKfvv_p1ly1wnXO1QbvfnAXFxrAbhMPg5CRSDKuP7Lb=w958-h719-s-no?authuser=0"
+                            },
+                        ]
                     },
                     {
                         "id": 12,
@@ -1901,7 +2001,7 @@ export const LINKS = [
                         "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
                         "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9YXz9glaPKGxDkIBIhgw7S9DWfSwu_mXp0gJHAorxziNFvAmDBrWe85Pd_ejE7lekMcn-TaLM5PRePcrjBrlUuJemb525d1USXtswlNmRQ71bE2CiRXk7GojKet9IbBV22_boJ9owZcVK6UWiwdEgc=w879-h878-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_NvY0R5rr1hvlHpgcZsCauHNUrzCm1ScU7fF4-jt4qZPkz2EKSmsPbhthc_93w_vXgKRWKkp0FRRKs7yd9fauFWYBxP_5V6raikuhhBii967rLsToOI81fc1Gtd3Ru1FljbQA5Mv2NNG0kYEAspNyg=w878-h878-s-no?authuser=0"
                     },
                     {
                         "id": 13,
@@ -1911,40 +2011,10 @@ export const LINKS = [
                         "technique": "pintura sobre tecido - tinta de tecido",
                         "rotate": null,
                         "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc89dnAx2aDTP6pWwz_w6RWNho8jwHK7KAnAVqy5bTkEBqZ3wYFneB78vYXEVXBCzmJrj1pOpBtcm3cUG0rE9n0GRWaaQoXvSGSMcQSn8SVC3f41C6FV9KQ_GHjv2xG7kav9lMmnTkxS0DDpFA0dpzV8=w879-h879-s-no?authuser=0"
+                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc8Clat2mtH4WqEIc6ta90Xdo6wy59sWHlWj8JmmxIg4LKL5y9pchLRNPVgzJqRjNsV7ouWGKRr_YXeNYop1CV-IJfb-y9XVL_d0Zaae8iPLTqCJZbT_pXj_n3gRDO6HUVbhapKssEgRw3PO3SO6_MFv=w856-h878-s-no?authuser=0"
                     },
                     {
                         "id": 14,
-                        "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
-                        "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc_DY3QadQz86-rzzHZKoNj4T9x_cGBfwIMykOvTJzsIpWTTeHR4oGTLlE1JsMnqMk-_jRgeCAkYp4lhsVKDyw5jSkaNrQqNxxTh3s_CepkieKui0yMDgmpIGM3WKNaKQQ7aQwhFhlV_SvPT6UBIpYiL=w879-h879-s-no?authuser=0"
-                    },
-                    {
-                        "id": 15,
-                        "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
-                        "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc-T34Uf-e7--0FXHH3ewmT09nVy51WpRKk_fdqmnI5SIrvoaxBuCVGf8QVI0hy9vgu_S1GvPUHAzGr3Li-vu3koArjNMmOw0nxfH7glpLhtKfkwUOdgKg5d9vM3i43Dcwln-_O84XLMZ9-1jYlfftwZ=w879-h879-s-no?authuser=0"
-                    },
-                    {
-                        "id": 16,
-                        "title": "",
-                        "year": "2023",
-                        "size": "20x30",
-                        "technique": "pintura sobre tecido - tinta de tecido",
-                        "rotate": null,
-                        "full": false,
-                        "src": "https://lh3.googleusercontent.com/pw/AIL4fc9Ykx9AA1e_3KvzdidGB1HHegx6xBLlhqQ48yd0aQliV7A2r4azUZmavOYFVg-hQeikckQ-Oxybz9lS6eCNlwterrIe-ypDuumw1vs5W92K65eEnTOhO1G7cujw01z3KWdNzc6EnoayvaIO5S6zMWvM=w879-h879-s-no?authuser=0"
-                    },
-                    {
-                        "id": 17,
                         "title": "tabela de valores",
                         "year": "2023",
                         "size": "",
