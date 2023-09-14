@@ -7,10 +7,23 @@
 .expo ul {
     margin-bottom: 1rem;
     text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
 }
 
-.expo ul li:nth-child(n + 2) {
-    margin-left: 2rem;
+.expo ul li:nth-child(n + 1) {
+    margin-left: .5rem;
+    letter-spacing: 1px;
+    line-height: 1.4rem;
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width: 600px) {
+
+    .expo ul li:nth-child(n + 1) {
+        font-size: 1rem;
+    }
 }
 
 .expo ul li:nth-child(4) {
