@@ -39,7 +39,7 @@ export function Exhibitions() {
                   {`${item.locale} - ${item.date}`}{" "}
                 </li>
                 <li>
-                  <span>função: </span>
+                  <span>atuação: </span>
                   {item.function}
                 </li>
                 {item.src && (

@@ -6,7 +6,7 @@ export function Card({ data, big }) {
   const [openModal, setOpenModal] = useState(false);
 
   const handleModal = () => {
-    setOpenModal(!openModal);
+    setOpenModal((prev) => !prev);
   };
 
   const rotate = data.rotate;
@@ -37,32 +37,28 @@ function Modal({ active, setActive, item }) {
 
   return (
     <div className={style.content_modal} onClick={setActive}>
-      <div className={style.content}>
-        <div
-          className={`${style.modal}  ${
-            item.rotate ? style.horizontal : null
-          } `}
-        >
-          <img className={style.img} src={item.src} />
-          <p>
-            Adrianne Jhulya da Silva Mendes <br />
-            {item.title && (
-              <>
-                {item.title}
-                <br />
-              </>
-            )}
-            {item.technique} <br />
-            {item.size && (
-              <>
-                {item.size}
-                <br />
-              </>
-            )}
-            {item.year} <br />
-          </p>
-          <br />
-        </div>
+      <div
+        className={`${style.modal}  ${item.rotate ? style.horizontal : null} `}
+      >
+        <img className={style.img} src={item.src} />
+        <p>
+          Adrianne Jhulya da Silva Mendes <br />
+          {item.title && (
+            <>
+              {item.title}
+              <br />
+            </>
+          )}
+          {item.technique} <br />
+          {item.size && (
+            <>
+              {item.size}
+              <br />
+            </>
+          )}
+          {item.year} <br />
+        </p>
+        <br />
       </div>
     </div>
   );
