@@ -66,7 +66,7 @@
     transform: translate(-20px, -8px) rotate(-20deg);
 }
 
-.card:hover {
+.card_container:hover .card {
     transform: scale(1.1);
 }
 

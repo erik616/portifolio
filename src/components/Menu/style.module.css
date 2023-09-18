@@ -33,8 +33,10 @@
 nav {
     max-width: 1200px;
     min-width: 220px;
+
     border: 1px solid var(--color-gray);
     padding: 0 2rem;
+
     border-radius: 8px;
 }
 
@@ -66,6 +68,14 @@ nav ul::before {
     right: -14%;
 }
 
+nav ul li {
+    text-transform: lowercase;
+    color: var(--color-gray);
+    padding: .5rem 1.5rem;
+    font-size: 18px;
+    text-align: center;
+}
+
 @media screen and (max-width: 1032px) {
 
     nav ul::after,
@@ -82,28 +92,34 @@ nav ul::before {
     }
 }
 
-nav ul li {
-    text-transform: lowercase;
-    color: var(--color-gray);
-    padding: .5rem 1.5rem;
-    font-size: 18px;
-    text-align: center;
-}
-
-.focus {
-    font-weight: 800;
-    color: var(--full-gray);
-}
-
 @media screen and (max-width: 720px) {
 
     .active {
+        height: 14.4rem;
+    }
+
+    .top {
+        top: 2rem;
+    }
+
+    nav {
         display: flex;
-        flex-direction: column;
+        position: relative;
+        height: 2.4rem;
+        overflow: hidden;
+        justify-content: center;
+        transition: .5s ease-in-out;
     }
 
     nav ul {
-        display: none;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+
+        top: -12rem;
+        z-index: -1;
+
+        transition: .5s ease-in-out;
     }
 
     .responsive_menu {
@@ -113,6 +129,9 @@ nav ul li {
         padding: .5rem 1.2rem;
         align-items: center;
         justify-content: center;
+        position: absolute;
+        background-color: #fff;
+
     }
 
     .responsive_menu span {
@@ -150,4 +169,9 @@ nav ul li {
     .content {
         margin-bottom: 0;
     }
+}
+
+.focus {
+    font-weight: 800;
+    color: var(--full-gray);
 }

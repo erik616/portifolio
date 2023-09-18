@@ -21,11 +21,11 @@ export function Menu() {
         <div className={style.title}>
           <h1>Adrianne Jhulya</h1>
         </div>
-        <nav>
+        <nav className={active ? style.active : null}>
           <div className={style.responsive_menu} onClick={handleActive}>
             <span>Menu</span>
           </div>
-          <ul className={active ? style.active : null}>
+          <ul className={active ? style.top : null}>
             <li>
               <Link to="/" className={name === "home" ? style.focus : null}>
                 Home
