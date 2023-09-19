@@ -117,9 +117,9 @@ nav ul li {
         flex-direction: column;
 
         top: -12rem;
-        z-index: -1;
 
         transition: .5s ease-in-out;
+        z-index: 1;
     }
 
     .responsive_menu {
@@ -131,7 +131,7 @@ nav ul li {
         justify-content: center;
         position: absolute;
         background-color: #fff;
-
+        z-index: 2;
     }
 
     .responsive_menu span {
